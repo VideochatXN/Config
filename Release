@@ -1,5 +1,6 @@
 {
 "showOpenAd": true,
+"showAds": true,
 "showInter": true,
 "showBanner": true,
 "showFakeUsers": true,
