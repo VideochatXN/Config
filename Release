@@ -1,6 +1,6 @@
 {
 "showOpenAd": true,
-"showAds": true,
+"showAds": false,
 "showInter": false,
 "showBanner": false,
 "showFakeUsers": true,
