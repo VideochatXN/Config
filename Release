@@ -3,7 +3,7 @@
 "showAds": true,
 "showInter": true,
 "showBanner": true,
-"showFakeUsers": false,
+"showFakeUsers": true,
 "showRealUsers": true,
 "version": "1.11",
 "countForSkip": 2,
